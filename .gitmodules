@@ -14,3 +14,7 @@
 	path = importaciones
 	url = https://github.com/rocketgithub/importaciones.git
 	branch = 10.0
+[submodule "rrhh"]
+	path = rrhh
+	url = https://github.com/rocketgithub/rrhh.git
+	branch = 11.0
