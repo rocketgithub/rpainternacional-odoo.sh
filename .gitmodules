@@ -21,3 +21,7 @@
 [submodule "rpainternacional"]
 	path = rpainternacional
 	url = git@github.com:rocketgithub/rpainternacional.git
+[submodule "kardex"]
+	path = kardex
+	url = https://github.com/rocketgithub/kardex.git
+	branch = 11.0
