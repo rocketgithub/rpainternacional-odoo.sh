@@ -1,1 +1,2 @@
 zeep
+python-magic
